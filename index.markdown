@@ -4,8 +4,7 @@
 
 layout: home
 ---
-
-### Hello!
+Hello!
 
 My name is Shamrat - biochemsitry MS student at BSMRSTU, Gopalganj 8100, Banlgadesh. Currently, I am working on molecular modeling and molecular dynamics simulation study of proteins associates with EAE: a mouse model of Multiple Sclerosis under the supervision of [Mahbub Hasan, PhD](https://sites.google.com/view/mahbub-hasan/home). My MS thesis project has been funded by NST grant from the ministry of science and technology, people's republic of Bangladesh.
 
@@ -15,5 +14,5 @@ Apart from research, I love to sketch, do check my graphite on papers [here](), 
 
 ### Updates
 
-December 30, 2021 - MSc thesis project recieved NST Fellowship; Funded by Ministry of Science and Technology, Bangladesh
-November 10, 2021 - Collaborative Research on CCN protein family published in current oncology.
+- *December 30, 2021* - **MSc thesis project recieved NST Fellowship; Funded by Ministry of Science and Technology, Bangladesh.**
+- *November 10, 2021* - **Collaborative Research on CCN protein family published in current oncology.**
