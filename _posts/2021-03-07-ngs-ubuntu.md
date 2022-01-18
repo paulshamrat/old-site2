@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NGS tool Installation on Ubuntu20.04"
+title:  "NGS tool installation on Ubuntu 20.04"
 categories: [ ngs, tutorial ]
 image: assets/images/ngs2.png
 ---
