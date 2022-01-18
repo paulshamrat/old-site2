@@ -3,41 +3,41 @@ layout: page
 title: Achievements
 permalink: /achievements/
 ---
-## **I) Articles**
+### **I) Articles**
 
 **1. [Potential Role of CCN Proteins on Breast Cancer: Therapeutic Advances and Perspectives](https://www.mdpi.com/1718-7729/28/6/417)**<br>
-Ahmed, K.A.; Hasib, T.A.; **Paul, S.K.**; Saddam, M.; Mimi, A.; Saikat, A.S.M.; Faruque, H.-A.; Rahman, M.A.; Uddin, M.J.; Kim, B.<br>
-*Curr. Oncol. **2021**, 28, 4972-4985. DOI: 10.3390/curroncol28060417.*
-[Download](https://www.mdpi.com/1718-7729/28/6/417/pdf) || [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34940056/) <br>
+Ahmed, K.A.; Hasib, T.A.; 
+**Paul, S.K.**; Saddam, M.; Mimi, A.; Saikat, A.S.M.; Faruque, H.-A.; Rahman, M.A.; Uddin, M.J.; Kim, B. *Curr. Oncol. **2021**, 28, 4972-4985. DOI: 10.3390/curroncol28060417.*
+[**PDF**](https://www.mdpi.com/1718-7729/28/6/417/pdf) || [**Pubmed**](https://pubmed.ncbi.nlm.nih.gov/34940056/) <br>
 
-**2. [An insight into pathophysiological features and therapeutic advances on ependymoma](https://www.mdpi.com/2072-6694/13/13/3221)**<br>
+**2. [An insight into pathophysiological features and therapeutic advances on ependymoma](https://www.mdpi.com/2072-6694/13/13/3221).** <br>
 Seo, S.-H., **Paul, S.K.**, Shikder, M., Khanam, M., Ghosh, P., Hasib, T.A, Ahmed, K.A., Sikdar, S., Uddin, M.J., & Kwon, Y. 
 *Cancers **2021**, 13, 3221. DOI: 10.3390/cancers13133221.*
-[PDF](https://www.mdpi.com/2072-6694/13/13/3221/pdf) | [Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8269186/) <br>
+[**PDF**](https://www.mdpi.com/2072-6694/13/13/3221/pdf) | [**Pubmed**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8269186/) <br>
 
-**3. [Microarray Data Analysis Using GEO2R to Identify Differentially Expressed Genes in Ovarian Cancer after NSC319726 Treatment and Pathway Analysis](https://www.researchgate.net/publication/349832074_Microarray_Data_Analysis_Using_GEO2R_to_Identify_Differentially_Expressed_Genes_in_Ovarian_Cancer_after_NSC319726_Treatment_and_Pathway_Analysis)**<br>
-**Paul, S.K.**, Banerjee, S., Karunagaran, D.*<br>
+**3. [Microarray Data Analysis Using GEO2R to Identify Differentially Expressed Genes in Ovarian Cancer after NSC319726 Treatment and Pathway Analysis](https://www.researchgate.net/publication/349832074_Microarray_Data_Analysis_Using_GEO2R_to_Identify_Differentially_Expressed_Genes_in_Ovarian_Cancer_after_NSC319726_Treatment_and_Pathway_Analysis).**<br>
+**Paul, S.K.**, Banerjee, S., Karunagaran, D.*
 *Internship Report (GRIESHMA'20), **2020**, Prof. D Kaunagaran's Cancer Biology Lab, Indian Institute of Technology Madras, Chennai 600036, India* <br>
 <!--[PDF](/achievementfiles/publishedarticles/Microarray Data Analysis Using GEO2R to Identify Differentially Expressed Genes in Ovarian Cancer after NSC319726 Treatment and Pathway Analysis.pdf)-->
 
 **4. [In Silico Design and Homology Modeling of Helicase C-Terminal Domain of Nonstructural Protein NS3 of West Nile Virus (Strain NY-99)](https://link.springer.com/chapter/10.1007/978-981-15-0829-5_68)**<br>
-**Paul, S.K.**, Khalipha, A.B.R., Kabir, M.L., Ray, P., Mina, M.A., Masum, H.M., <br>
-*In Proceedings of the 2nd International Conference on Communication, Devices and Computing, **2020**, (pp. 723-732). Springer, Singapore. DOI: 10.1007/978-981-15-0829-5_68* 
-[PDF](/achievementfiles/publishedarticles/iccdc2019.pdf)
+**Paul, S.K.**, Khalipha, A.B.R., Kabir, M.L., Ray, P., Mina, M.A., Masum, H.M.
+*In Proceedings of the 2nd International Conference on Communication, Devices and Computing, **2020**, (pp. 723-732). Springer, Singapore. DOI: 10.1007/978-981-15-0829-5_68.* 
+[**PDF**](/achievementfiles/publishedarticles/iccdc2019.pdf)
 
 **5. [Structure prediction and functional characterization of Uncharacterized Protein Rv1708 of Mycobacterium tuberculosis (Strain ATCC 25618/H37Rv)](https://www.taylorfrancis.com/books/e/9781003001614/chapters/10.1201/9781003001614-30)**<br>
-**Paul, S.K.,** Hasib, T.A., Ray, P., Kabir, L., Khalipha, A.B.R.<br>
-*In Biotechnology and Biological Sciences, **2019** (pp. 179-184). CRC Press. DOI: 10.1201/9781003001614-30* 
-[PDF](/achievementfiles/publishedarticles/biospec.pdf) <br>
+**Paul, S.K.,** Hasib, T.A., Ray, P., Kabir, L., Khalipha, A.B.R.
+*In Biotechnology and Biological Sciences, **2019** (pp. 179-184). CRC Press. DOI: 10.1201/9781003001614-30.* 
+[**PDF**](/achievementfiles/publishedarticles/biospec.pdf) <br>
 
 **6. Homology modeling and molecular dynamics simulation study on RhoB: modulator of cytoskeleton organization**<br>
-**Paul, S.K.**, Metu, C.L.N., Sutihar, S.K., Hasib, T.A., Saddam, M., Kabir, M.L., Uddin, K.N., Shihab, S.R.<br>
-*Status: Submitted to INSC, Springer.*<br>
+**Paul, S.K.**, Metu, C.L.N., Sutihar, S.K., Hasib, T.A., Saddam, M., Kabir, M.L., Uddin, K.N., Shihab, S.R.
+*Status: Submitted to INSC, Springer.*
 <!-- [Last updated; Jul 05, 2021; v18.5](/achievementfiles/inprogress/mapk-Jul5-V18.5.pdf) -->
 
 **7. Homology Modeling and Molecular Dynamics Simulation Study on Uncharacterized NAD-dependent oxidoreductase Rv0687 of Mycobacterium tuberculosis (strain ATCC 25618/H37Rv)**<br>
-**Paul, S.K.**, Mimi, S.S, Debnath, A., Rima, S.A., Mina, M.A., Shapla, U.M.<br>
-*Status: Master of Science (MS) first semester project Report, BSMRSTU, Gopalganj 8100, Bangladesh. June 2021.*<br>
+**Paul, S.K.**, Mimi, S.S, Debnath, A., Rima, S.A., Mina, M.A., Shapla, U.M.
+*Status: Master of Science (MS) first semester project Report, BSMRSTU, Gopalganj 8100, Bangladesh.* **June 2021.**
 <!-- [Last updated; Feb 04, 2021; v1.0](/achievementfiles/inprogress/P9WGS7-feb4-V1.pdf)-->
 
 **8. Physicochemical, structural properties, and 100 nanoseconds molecular dynamics simulation of mouse grancalcin (GCA) protein: an in-silico study**<br>
@@ -46,7 +46,7 @@ Seo, S.-H., **Paul, S.K.**, Shikder, M., Khanam, M., Ghosh, P., Hasib, T.A, Ahme
 <!-- [Last updated; June 25, 2021; v3.0](/achievementfiles/inprogress/structural studies on-Q8VC88_1k94-june25--v3.pdf) -->
 
 **9. Natural products-based potential therapeutic interventions of pulmonary fibrosis** <br>
-Hasan, M., Paul, N.C., **Paul, S.K.**, Saikat, A.S.M., Akter, H., Mandal, M., Le0, S.-S.<br>
+Hasan, M., Paul, N.C., **Paul, S.K.**, Saikat, A.S.M., Akter, H., Mandal, M., Le0, S.-S.
 *Status: In-progress*<br>
 <!--[Last updated; Jun 07, 2021; v9.0](/achievementfiles/inprogress/ipf-draft-reference-mendeley-june7--v9.pdf) -->
 
@@ -66,7 +66,7 @@ Shamrat Kumar Paul, Pranta Ray, Mohammad Solaiman Hossain, Abul Bashar Ripon Kha
 Int. J. Biopro. Biotechnol. Advance 5 (1), 144-150 2019<br>
 [PDF](/achievementfiles/publishedarticles/Delafloxacin-2019.pdf) -->
 
-## **III) Conference Presentations**
+### **III) Conference Presentations**
 
 **11. Structure prediction and functional characterization of Uncharacterized Protein Rv1708 of Mycobacterium tuberculosis (Strain ATCC 25618/H37Rv)**. (Oral Presentation)
 Shamrat Kumar Paul, Tasnin Al Hasib, Pranta Ray, Md. Lutful Kabir, Abul Bashar Ripon Khalipha<br>
