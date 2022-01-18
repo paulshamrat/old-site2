@@ -60,4 +60,5 @@ Depicting a complex biological phenomenon in the form of flowchart, pathway and 
 # Recent Updates
 
 - *December 30, 2021* - MSc thesis project recieved NST Fellowship; Funded by Ministry of Science and Technology, Bangladesh.
-- *November 10, 2021* - Collaborative Research on CCN protein family published in current oncology.
+- *November 26, 2021* - Collaborative Research on CCN protein family published in current oncology.
+- *June 28, 2021* - Ependymoma article is now online. Do check it here, [https://doi.org/10.3390/cancers13133221](https://doi.org/10.3390/cancers13133221).
