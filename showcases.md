@@ -5,7 +5,7 @@ permalink: /showcases/
 ---
 
 **Illustrations:**
-![Ependymoma](/web/images/ependymoma.svg)
+![Ependymoma](/images/ependymoma.svg)
 Ependymoma Project; Published in cancers, MDPI in 2021.
 
 
