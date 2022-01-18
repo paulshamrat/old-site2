@@ -46,10 +46,10 @@ Bangabandhu Sheikh Mujibur Rahman Science & Technology University,  Bangladesh
 - Misc.: Teaching, training, consultation in molecular modeling and simulation.
 
 # Grants and Awards
-- 2022 : MS thesis Intern Scholarship at Indian Institute of Technology Palakkad, Kanjikkode, Kerala 678623, India (F. No: IITPKD/Acad.Rsch/Internship/2021/001).
-- 2021 : National Science and Technology (NST) Fellowship for supporting computation facility of MD simulaition study of proteins associated with EAE and MS progression. (Code No: 120005100-3821117).
-- 2020 : Global Research Internship in Engineering Science Humanities and Management (GRIESHMA) awardee at Indian Institute of Technology Madras, Chennai 600036, India; (Internship Period: Mar 2020 - Sep 2020).
-- 2018 : 2nd Runner up in Idea Contest for In Silico Drug Design (Poster Presentation) at BAUET Tech Fair 2K18, Bangladesh Army University of Engineering and Technology, Natore 6431, Bangladesh.
+- 2022 : MS thesis Internship at IIT Palakkad, Kerala 678623, India.
+- 2021 : NST fellowship 2021-2022, MOST, Bangladesh.
+- 2020 : GRIESHMA fellowship at IIT Madras, Chennai 600036, India.
+- 2018 : 2nd Runner up: poster presentation at BAUET Tech Fair 2K18, BAUET, Natore 6431, Bangladesh.
 
 # Projects
 01. **MSProject**: Physicochemical role and potential inhibitor screening for the candidate biomarkers overexpressed in experimental autoimmune encephalomyelitis (EAE) mice. <br>
@@ -74,7 +74,7 @@ Depicting a complex biological phenomenon in the form of flowchart, pathway and 
 4. Paul, S. K., et al. (2019).  [Structure prediction and functional characterization of Uncharacterized Protein Rv1708 of Mycobacterium tuberculosis (Strain ATCC 25618/H37Rv)](https://www.taylorfrancis.com/books/e/9781003001614/chapters/10.1201/9781003001614-30), CRC press.pp 179–184.
 
 # Recent Updates
-- *December 30, 2021* - MSc thesis awarded NST Fellowship; Funded by Ministry of Science and Technology, Bangladesh.
+- *December 30, 2021* - MSc thesis project awarded NST fellowship; funded by ministry of science and technology, people's republic of Bangladesh.
 - *December 03, 2021* - Recieved MS thesis internship offer from IIT Palakkad, India.
 - *November 26, 2021* - Collaborative Research on CCN protein family published in current oncology, MDPI. [[Article].](https://www.mdpi.com/1718-7729/28/6/417)
 - *June 28, 2021* - Ependymoma article is now online. Do check it [here.](https://doi.org/10.3390/cancers13133221).
