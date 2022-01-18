@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-![Projects](/web/images/projects.png)
+![Projects](/images/projects.png)
 
 Here is a non-exhaustive list of my Research projects. (img: google)
 
