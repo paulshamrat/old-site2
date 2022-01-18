@@ -4,7 +4,7 @@ title: About
 permalink: /zic/
 ---
 
-![Shamrat Kumar Paul at Pathology Lab, CVASU. March 2019.](/web/images/paulshamrat.jpg)
+![Shamrat Kumar Paul at Pathology Lab, CVASU. March 2019.](/images/paulshamrat.jpg)
 
 
 Shamrat Kumar Paul is a graduate student, having a keen interest in the field of Neuroscience, Functional Genomics and Structural Biology. Shamrat was a Research Intern (GRIESHMA) at Prof. D. Karunagaran’s Cancer Biology Laboratory of Indian Institute of Technology (IIT) Madras and graduated with BSc (Hons) Degree from the Department of Biochemistry and Molecular Biology of Bangabandhu Sheikh Mujibur Rahman Science and Technology University (BSMRSTU), Gopalganj 8100, Bangladesh.
