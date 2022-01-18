@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "wsl2 installation on windows10"
+title:  "WSL2 installation on windows 10"
 categories: [ wsl2, tutorial ]
 image: assets/images/wsl2.png
 ---

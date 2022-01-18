@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Install GROMACS2021.2 on WSL"
+title:  "Install GROMACS 2021.2 on WSL"
 author: paul
 categories: [ gromacs, install, tutorial ]
 image: assets/images/example.png
