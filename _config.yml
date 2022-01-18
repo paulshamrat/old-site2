@@ -21,10 +21,10 @@
 title: Shamrat Kumar Paul
 email: shamratpaul.bmb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Shamrat Kumar Paul, Biochemistry- MS student at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj 8100, Bangladesh.
+Shamrat Kumar Paul, Biochemistry- MS student at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj 8100, Bangladesh.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: shamratpaulbmb
+#twitter_username: shamratpaulbmb
 github_username:  paulshamrat
 
 # Build settings
