@@ -74,7 +74,7 @@ Depicting a complex biological phenomenon in the form of flowchart, pathway and 
 4. Paul, S. K., et al. (2019).  [Structure prediction and functional characterization of Uncharacterized Protein Rv1708 of Mycobacterium tuberculosis (Strain ATCC 25618/H37Rv)](https://www.taylorfrancis.com/books/e/9781003001614/chapters/10.1201/9781003001614-30)*. **CRC press**.pp 179–184*.
 
 # Recent Updates
-- *December 30, 2021* - MSc thesis project awarded NST fellowship; funded by ministry of science and technology, people's republic of Bangladesh.
+- *December 30, 2021* - MSc thesis project awarded [NST fellowship](https://most.portal.gov.bd/sites/default/files/files/most.portal.gov.bd/npfblock//%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%20%E0%A6%93%20%20%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%BE%20%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%20%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA.pdf), MOST, Bangladesh.
 - *December 03, 2021* - Recieved MS thesis internship offer from IIT Palakkad, India.
-- *November 26, 2021* - Collaborative Research on CCN protein family published in current oncology, MDPI. [[Article].](https://www.mdpi.com/1718-7729/28/6/417)
-- *June 28, 2021* - Ependymoma article is now online. Do check it [here.](https://doi.org/10.3390/cancers13133221).
+- *November 26, 2021* - Collaborative research on CCN protein family published in *[Current oncology](https://www.mdpi.com/1718-7729/28/6/417).*
+- *June 28, 2021* - Ependymoma article is now online in *[Cancers](https://doi.org/10.3390/cancers13133221)*.
