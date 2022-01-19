@@ -7,7 +7,7 @@ layout: home
 
 Hello! and welcome,<br>
 
-I am Shamrat - Biochemsitry MS student at BSMRSTU, Gopalganj, Banlgadesh. Currently, I am concentrating on molecular modeling and molecular dynamics simulation study of proteins associates with EAE: a mouse model of Multiple Sclerosis under the supervision of [Mahbub Hasan, PhD](https://sites.google.com/view/mahbub-hasan/home). My MS thesis project recieved NST grant from the ministry of science and technology, people's republic of Bangladesh.
+I am Shamrat - Biochemsitry MS student at BSMRSTU, Gopalganj, Bangladesh. Currently, I am concentrating on molecular modeling and molecular dynamics simulation study of proteins associates with EAE: a mouse model of Multiple Sclerosis under the supervision of [Mahbub Hasan, PhD](https://sites.google.com/view/mahbub-hasan/home). My MS thesis project recieved NST grant from the ministry of science and technology, people's republic of Bangladesh.
 
 In summer 2020, I worked on DEGs analysis from ovarian cancer datasets as a research intern at the Cancer Biology Lab, Dept. of Biotechnology, IIT Madras, India with GRIESHMA fellowship under the supervision of [Professor Karuanagaran D](https://biotech.iitm.ac.in/Faculty/Karunagaran/index.php). I secured a joint 2nd runner up position at the BAUET Tech Fair 2K18 at BAUET natore for the outstanding presentation on my DFT and Molecular Docking study on Delafloxacin against ABSSI.
 
