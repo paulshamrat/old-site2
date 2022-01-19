@@ -7,8 +7,6 @@ permalink: /projects/
 
 Here is a non-exhaustive list of my Research projects. (img: google)
 
-# Projects
-
 2022: 
 - MD simulation: via SSH@science outreach server; access: 12 Intel Xeon E5 cores, and an NVIDIA GTX 2080 GPU.<br>
 - MD simulation on RhoB; modulator of cytoskeleton organization. <br>
