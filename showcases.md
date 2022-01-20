@@ -3,12 +3,6 @@ layout: page
 title: Misc.
 permalink: /showcases/
 ---
-
-**Illustrations:**
-![Ependymoma](/images/ependymoma.svg)
-Ependymoma Project; Published in cancers, MDPI in 2021.
-
-
 # Courses Undertaken
 MS in Biochemistry and Molecular Biology at BSMRSTU, Gopalganj 8100, Bangladesh.<br>
 
