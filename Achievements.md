@@ -7,7 +7,7 @@ permalink: /achievements/
 
 **1. [Potential Role of CCN Proteins on Breast Cancer: Therapeutic Advances and Perspectives](https://www.mdpi.com/1718-7729/28/6/417).**<br>
 Ahmed, K.A.; Hasib, T.A.; 
-**Paul, S.K.**; Saddam, M.; Mimi, A.; Saikat, A.S.M.; Faruque, H.-A.; Rahman, M.A.; Uddin, M.J.; Kim, B. *Curr. Oncol. *2021*,* 28, 4972-4985. DOI: 10.3390/curroncol28060417.*
+**Paul, S.K.**, Saddam, M., Mimi, A., Saikat, A.S.M., Faruque, H.-A., Rahman, M.A., Uddin, M.J., Kim, B. *Curr. Oncol. *2021*,* 28, 4972-4985. DOI: 10.3390/curroncol28060417.*
 [**(PDF)**](https://www.mdpi.com/1718-7729/28/6/417/pdf)<br>
 
 **2. [An insight into pathophysiological features and therapeutic advances on ependymoma](https://www.mdpi.com/2072-6694/13/13/3221).**<br>
@@ -16,7 +16,7 @@ Seo, S.-H., **Paul, S.K.**, Shikder, M., Khanam, M., Ghosh, P., Hasib, T.A, Ahme
 [**(PDF)**](https://www.mdpi.com/2072-6694/13/13/3221/pdf)<br>
 
 **3. [Microarray Data Analysis Using GEO2R to Identify Differentially Expressed Genes in Ovarian Cancer after NSC319726 Treatment and Pathway Analysis](https://www.researchgate.net/publication/349832074_Microarray_Data_Analysis_Using_GEO2R_to_Identify_Differentially_Expressed_Genes_in_Ovarian_Cancer_after_NSC319726_Treatment_and_Pathway_Analysis).**<br>
-**Paul, S.K.**, Banerjee, S., Karunagaran, D.*
+**Paul, S.K.**, Banerjee, S., Karunagaran, D.
 *Internship Report (GRIESHMA'20), **2020**, Prof. D Kaunagaran's Cancer Biology Lab, Indian Institute of Technology Madras, Chennai 600036, India.* <br>
 [**(Report)**](https://www.researchgate.net/publication/349832074_Microarray_Data_Analysis_Using_GEO2R_to_Identify_Differentially_Expressed_Genes_in_Ovarian_Cancer_after_NSC319726_Treatment_and_Pathway_Analysis)
 <!--[PDF](/achievementfiles/publishedarticles/Microarray Data Analysis Using GEO2R to Identify Differentially Expressed Genes in Ovarian Cancer after NSC319726 Treatment and Pathway Analysis.pdf)-->
@@ -80,7 +80,7 @@ August, 8-10, **2019**.
 (Oral presentation)
 
 **02. Development and Molecular Modeling of PETase enzyme for Degradation of Polyethylene terephthalate (PET) from Ideonella sakaiensis (strain 201-F6).** <br>
-**Paul, S.K.**, Rizvy, T.K.; Hasib, T.A.; Hossain, M.M.;, Kabir, M.L.; Khaliph, A.B.R.
+**Paul, S.K.**, Rizvy, T.K., Hasib, T.A., Hossain, M.M., Kabir, M.L., Khaliph, A.B.R.
 *1st Chittagong Science Carnival-2019, Hosted by Chittagong University Scientific Society,
 Organized by Chittagong University Robotics & Innovation Club, 
 University of Chittagong, Chittagong 4331, Bangladesh.*
@@ -104,8 +104,8 @@ Kolkata, India.*
 (Oral presentation).
 
 **05. Investigation of Low Nod Factor Production of Soil Bacteria Sinorhizobium meliloti and It's Effect in Nodulation.** <br>
-**Paul, S.K.**, Mina, M.A., Sultana, F., Rizvy, T.K, Monir, M.M., Saddam, M, Hasib, T.A., Alom, M., Ahmed, K.A., Masum, H.M.*
-*International Conference on Environmental Science and Resource Management (ICESRM 2019)
+**Paul, S.K.**, Mina, M.A., Sultana, F., Rizvy, T.K, Monir, M.M., Saddam, M, Hasib, T.A., Alom, M., Ahmed, K.A., Masum, H.M.
+*International Conference on Environmental Science and Resource Management (ICESRM 2019),
 Organised by Dept. of Environmental Science and Resource Management, 
 Mawlana Bhashani Science and Technology University, 
 Tangail, Bangladesh.*
@@ -113,7 +113,7 @@ Tangail, Bangladesh.*
 (Accepted for oral presentation but not presented)
 
 **06. Molecular Docking Study of Tetrabenazine for Targeting Huntingtin Protein.** <br>
-**Paul, S.K.**, Kabir M. L.; Mina, M. A.; Rizvy, T. K.
+**Paul, S.K.**, Kabir M. L., Mina, M. A., Rizvy, T. K.
 *2nd International Conference on Biotechnology and Biological Sciences; Biospectrum 2018,
 University of Engineering & Management, Kolkata, 
 West Bengal, India.*
@@ -121,7 +121,7 @@ July 27-28, **2018**.
 (Poster presentation)
 
 **07. Gel Electrophoresis with Bio-Hacking Device & DIY DNA Extraction.** <br>
-**Paul, S.K.**, Rizvy, T.K.; Hasib, T.A.; Monir, M.M.
+**Paul, S.K.**, Rizvy, T.K., Hasib, T.A., Monir, M.M.
 *The Ultimate Innovator Hunt 2018-IEEE RUET Student Branch, 
 Rajshahi University of Engineering & Technology, 
 Rajshahi, Bangladesh.*
@@ -130,7 +130,7 @@ July 06, **2018**.
 
 
 **08. In Silico Molecular Docking  Study of Delafloxacin against 4MQT; The Treatment of  Acute Bacterial Skin And Skin Structure Infections.** <br>
-**Paul, S.K.**, Khalipha, A. B. R.; Hossain, S.; Islam, M. T.;
+**Paul, S.K.**, Khalipha, A.B.R., Hossain, S., Islam, M.T.
 *BAUET Tech Fair 2K18, 
 Bangladesh Army University of Engineering & Technology, 
 Natore, Bangladesh.*
@@ -138,7 +138,7 @@ May 10, **2018**.
 **(Awarded prize for the 3rd best poster*)**
 
 **09. Gel Electrophoresis with Bio-Hacking Device & DIY DNA Extraction.** <br>
-**Paul, S.K.**, Haque, E.; Sultana, F.;  Ahmed, A.K.; Monir, M.M.; Mokhlasur, M.; , Hossain, M.R.; Saddam, M.; Rizvy, T.K.; Hasib, T.A.
+**Paul, S.K.**, Haque, E., Sultana, F.,  Ahmed, A.K., Monir, M.M., Mokhlasur, M., Hossain, M.R., Saddam, M., Rizvy, T.K., Hasib, T.A.
 *BAUET Tech Fair 2K18, 
 Bangladesh Army University of Engineering & Technology, 
 Natore, Bangladesh.*
@@ -146,7 +146,7 @@ May 10, **2018.**
 (Project showcasing)
 
 **10. A review study on antibiotic practices from Chittagong, Dhaka, Gopalganj & Rajshahi region of Bangladesh.** <br>
-**Paul, S.K.**, Kabir, M.L.; Rana, M. Sonia, Z. A; Kabir, M.L.;
+**Paul, S.K.**, Kabir, M.L., Rana, M., Sonia, Z. A., Kabir, M.L.
 *International Conference on Chemical Science & Technology and 
 40th Annual General Meeting of Bangladesh Chemical Society,
 Department of Chemistry Khulna University of Engineering & Technology, 
@@ -174,7 +174,7 @@ July 13, **2021**.
 
 
 **02. Positive Effect of Genetically Modified (GM) Food on the Environment.** <br>
-**Paul, S.K.** Rahman, S.S., Lipu, T.A., Aziz, M.A., Debnath, A., Hossain, K., Prome, U.H., Rahman, M.A..
+**Paul, S.K.** Rahman, S.S., Lipu, T.A., Aziz, M.A., Debnath, A., Hossain, K., Prome, U.H., Rahman, M.A.
 *Academic Presentation; Course Code: BMB425.*
 November 01, **2019**.
 
