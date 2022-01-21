@@ -5,7 +5,9 @@
 layout: home
 ---
 Hello! and welcome,<br>
-<img align="right" src="//images/profile-home.svg">
+
+<img align="right" src="//images/profile-home.png">
+
 I am Shamrat - Biochemsitry MS student at BSMRSTU, Gopalganj, Bangladesh. Currently, I am concentrating on molecular modeling and molecular dynamics simulation study of proteins associates with EAE: a mouse model of Multiple Sclerosis under the supervision of [Mahbub Hasan, PhD](https://sites.google.com/view/mahbub-hasan/home). My MS thesis project recieved NST grant from the ministry of science and technology, people's republic of Bangladesh.
 
 
