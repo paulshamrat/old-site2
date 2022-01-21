@@ -17,7 +17,7 @@ Seo, S.-H., **Paul, S.K.**, Shikder, M., Khanam, M., Ghosh, P., Hasib, T.A, Ahme
 
 **3. Microarray Data Analysis Using GEO2R to Identify Differentially Expressed Genes in Ovarian Cancer after NSC319726 Treatment and Pathway Analysis.** <br>
 **Paul, S.K.**, Banerjee, S., Karunagaran, D.
-*Internship Report (GRIESHMA'20), **2020**, Prof. D Kaunagaran's Cancer Biology Lab, Indian Institute of Technology Madras, Chennai 600036, India.* <br>
+*Internship Report (GRIESHMA'20), **2020**, Prof. D Kaunagaran's Cancer Biology Lab, Indian Institute of Technology Madras, Chennai 600036, India.*
 [**(Report)**](https://www.researchgate.net/publication/349832074_Microarray_Data_Analysis_Using_GEO2R_to_Identify_Differentially_Expressed_Genes_in_Ovarian_Cancer_after_NSC319726_Treatment_and_Pathway_Analysis)
 <!--[PDF](/achievementfiles/publishedarticles/Microarray Data Analysis Using GEO2R to Identify Differentially Expressed Genes in Ovarian Cancer after NSC319726 Treatment and Pathway Analysis.pdf)-->
 
