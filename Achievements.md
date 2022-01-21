@@ -168,24 +168,25 @@ March 31, **2017**.
 ### Academic Presentations
 
 **01. Nucleic acid therapeutics based on biotechnology.** <br>
-Shamrat Kumar Paul. 
-Academic presentation; Course Code: BMB553. July 13, **2021**.
+**Paul, S.K.** 
+*Academic presentation; Course Code: BMB553.* 
+July 13, **2021**.
 
 
 **02. Positive Effect of Genetically Modified (GM) Food on the Environment.** <br>
-Rahman, S.S., Lipu, T.A., Aziz, M.A., Debnath, A., **Paul, S.K.**, Hossain, K., Prome, U.H., Rahman, M.A..
+**Paul, S.K.** Rahman, S.S., Lipu, T.A., Aziz, M.A., Debnath, A., Hossain, K., Prome, U.H., Rahman, M.A..
 *Academic Presentation; Course Code: BMB425.*
 November 01, **2019**.
 
 
 **03. Many Different Ways Can Lead a Human Cell to Succeed in Acquiring Cancerous Potentials.** <br>
-Shamrat Kumar Paul.
+**Paul, S.K.**
 *Academic Presentation; Course Code: BMB416.*
 May 07, **2019**.
 
 
 **04. DNA extraction method; DIY process-Workshop of Synthetic Biology.** <br>
-Shamrat Kumar Paul.
+**Paul, S.K.**
 *Academic Presentation; Workshop: Synthetic Biology.*
 August 18, **2017**.
 
