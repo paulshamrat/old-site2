@@ -7,7 +7,7 @@ permalink: /achievements/
 
 **1. [Potential Role of CCN Proteins on Breast Cancer: Therapeutic Advances and Perspectives](https://www.mdpi.com/1718-7729/28/6/417).**<br>
 Ahmed, K.A.; Hasib, T.A.; 
-**Paul, S.K.**; Saddam, M.; Mimi, A.; Saikat, A.S.M.; Faruque, H.-A.; Rahman, M.A.; Uddin, M.J.; Kim, B. *Curr. Oncol. *2021*, 28, 4972-4985. DOI: 10.3390/curroncol28060417.*
+**Paul, S.K.**; Saddam, M.; Mimi, A.; Saikat, A.S.M.; Faruque, H.-A.; Rahman, M.A.; Uddin, M.J.; Kim, B. *Curr. Oncol. *2021*,* 28, 4972-4985. DOI: 10.3390/curroncol28060417.*
 [**(PDF)**](https://www.mdpi.com/1718-7729/28/6/417/pdf)<br>
 
 **2. [An insight into pathophysiological features and therapeutic advances on ependymoma](https://www.mdpi.com/2072-6694/13/13/3221).**<br>
@@ -71,7 +71,7 @@ Int. J. Biopro. Biotechnol. Advance 5 (1), 144-150 2019<br>
 
 ### Conference Presentations
 
-**01. Structure prediction and functional characterization of Uncharacterized Protein Rv1708 of Mycobacterium tuberculosis (Strain ATCC 25618/H37Rv).**<br>
+**01. Structure prediction and functional characterization of Uncharacterized Protein Rv1708 of Mycobacterium tuberculosis (Strain ATCC 25618/H37Rv).** <br>
 **Paul, S.K.**, Hasib, T.A., Ray, P., Kabir, M.L., Khalipha, A.B.R.
 *3rd International Conference on Biotechnology and Biological Sciences, 
 Organized by Department of Biotechnology, University of Engineering & Management, 
@@ -79,7 +79,7 @@ Kolkata, India.*
 August, 8-10, **2019**.
 (Oral presentation)
 
-**02. Development and Molecular Modeling of PETase enzyme for Degradation of Polyethylene terephthalate (PET) from Ideonella sakaiensis (strain 201-F6).**<br>
+**02. Development and Molecular Modeling of PETase enzyme for Degradation of Polyethylene terephthalate (PET) from Ideonella sakaiensis (strain 201-F6).** <br>
 **Paul, S.K.**, Rizvy, T.K.; Hasib, T.A.; Hossain, M.M.;, Kabir, M.L.; Khaliph, A.B.R.
 *1st Chittagong Science Carnival-2019, Hosted by Chittagong University Scientific Society,
 Organized by Chittagong University Robotics & Innovation Club, 
@@ -87,7 +87,7 @@ University of Chittagong, Chittagong 4331, Bangladesh.*
 April 23, **2019**.
 (Poster presesntation)
 
-**03. Functional Characterization of PETase enzyme for Degradation of Polyethylene terephthalate (PET); An In-Silico Approach.**<br>
+**03. Functional Characterization of PETase enzyme for Degradation of Polyethylene terephthalate (PET); An In-Silico Approach.** <br>
 **Paul, S.K.**, Hasib, T.A.; Rizvy, T.K.
 *BUP Environmental Fest 2019, 
 Bangladesh University of Professionals, 
@@ -95,7 +95,7 @@ Dhaka 1216, Bangladesh.*
 April 01, **2019**. 
 (Poster presentation)
 
-**04. In-Silico Design and Homology Modeling of Helicase C-terminal Domain of Nonstructural Protein NS3 of West Nile Virus (strain NY-99).**<br>
+**04. In-Silico Design and Homology Modeling of Helicase C-terminal Domain of Nonstructural Protein NS3 of West Nile Virus (strain NY-99).** <br>
 **Paul, S.K.**, Khalipha, A.B.R., Kabir, M.L., Ray, P., Mina, M.A., Masum, H.M.
 *2nd International Conference on Communication, Devices and Computing (ICCDC 2019), 
 Haldia Institute of Technology, 
@@ -103,7 +103,7 @@ Kolkata, India.*
 14-15 March, **2019**.
 (Oral presentation).
 
-**05. Investigation of Low Nod Factor Production of Soil Bacteria Sinorhizobium meliloti and Itâ€™s Effect in Nodulation.**<br>
+**05. Investigation of Low Nod Factor Production of Soil Bacteria Sinorhizobium meliloti and It's Effect in Nodulation.** <br>
 **Paul, S.K.**, Mina, M.A., Sultana, F., Rizvy, T.K, Monir, M.M., Saddam, M, Hasib, T.A., Alom, M., Ahmed, K.A., Masum, H.M.*
 *International Conference on Environmental Science and Resource Management (ICESRM 2019)
 Organised by Dept. of Environmental Science and Resource Management, 
@@ -112,7 +112,7 @@ Tangail, Bangladesh.*
 08 February, **2019**.
 (Accepted for oral presentation but not presented)
 
-**06. Molecular Docking Study of Tetrabenazine for Targeting Huntingtin Protein.**<br>
+**06. Molecular Docking Study of Tetrabenazine for Targeting Huntingtin Protein.** <br>
 **Paul, S.K.**, Kabir M. L.; Mina, M. A.; Rizvy, T. K.
 *2nd International Conference on Biotechnology and Biological Sciences; Biospectrum 2018,
 University of Engineering & Management, Kolkata, 
@@ -120,7 +120,7 @@ West Bengal, India.*
 July 27-28, **2018**.
 (Poster presentation)
 
-**07. Gel Electrophoresis with Bio-Hacking Device & DIY DNA Extraction.**<br>
+**07. Gel Electrophoresis with Bio-Hacking Device & DIY DNA Extraction.** <br>
 **Paul, S.K.**, Rizvy, T.K.; Hasib, T.A.; Monir, M.M.
 *The Ultimate Innovator Hunt 2018-IEEE RUET Student Branch, 
 Rajshahi University of Engineering & Technology, 
@@ -129,7 +129,7 @@ July 06, **2018**.
 (Project showcasing; accepted for first round but not presented)
 
 
-**08. In Silico Molecular Docking  Study of Delafloxacin against 4MQT; The Treatment of  Acute Bacterial Skin And Skin Structure Infections.**<br>
+**08. In Silico Molecular Docking  Study of Delafloxacin against 4MQT; The Treatment of  Acute Bacterial Skin And Skin Structure Infections.** <br>
 **Paul, S.K.**, Khalipha, A. B. R.; Hossain, S.; Islam, M. T.;
 *BAUET Tech Fair 2K18, 
 Bangladesh Army University of Engineering & Technology, 
@@ -137,7 +137,7 @@ Natore, Bangladesh.*
 May 10, **2018**.
 **(Awarded prize for the 3rd best poster*)**
 
-**09. Gel Electrophoresis with Bio-Hacking Device & DIY DNA Extraction.**<br>
+**09. Gel Electrophoresis with Bio-Hacking Device & DIY DNA Extraction.** <br>
 **Paul, S.K.**, Haque, E.; Sultana, F.;  Ahmed, A.K.; Monir, M.M.; Mokhlasur, M.; , Hossain, M.R.; Saddam, M.; Rizvy, T.K.; Hasib, T.A.
 *BAUET Tech Fair 2K18, 
 Bangladesh Army University of Engineering & Technology, 
@@ -145,7 +145,7 @@ Natore, Bangladesh.*
 May 10, **2018.**
 (Project showcasing)
 
-**10. A review study on antibiotic practices from Chittagong, Dhaka, Gopalganj & Rajshahi region of Bangladesh.**<br>
+**10. A review study on antibiotic practices from Chittagong, Dhaka, Gopalganj & Rajshahi region of Bangladesh.** <br>
 **Paul, S.K.**, Kabir, M.L.; Rana, M. Sonia, Z. A; Kabir, M.L.;
 *International Conference on Chemical Science & Technology and 
 40th Annual General Meeting of Bangladesh Chemical Society,
