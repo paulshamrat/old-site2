@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 ![](/images/project-cover.svg)
-Here is a non-exhaustive list of my Research projects. (img: google)
+Here is a non-exhaustive list of my Research projects.
 
 2022: 
 - MD simulation: via SSH@science outreach server; access: 12 Intel Xeon E5 cores, and an NVIDIA GTX 2080 GPU.<br>
