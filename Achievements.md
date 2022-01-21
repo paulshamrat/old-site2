@@ -167,24 +167,24 @@ March 31, **2017**.
 
 ### Academic Presentations
 
-**01. Nucleic acid therapeutics based on biotechnology.**
+**01. Nucleic acid therapeutics based on biotechnology.** <br>
 Shamrat Kumar Paul. 
 Academic presentation; Course Code: BMB553. July 13, **2021**.
 
 
-**02. Positive Effect of Genetically Modified (GM) Food on the Environment.**
+**02. Positive Effect of Genetically Modified (GM) Food on the Environment.** <br>
 Rahman, S.S., Lipu, T.A., Aziz, M.A., Debnath, A., **Paul, S.K.**, Hossain, K., Prome, U.H., Rahman, M.A..
 *Academic Presentation; Course Code: BMB425.*
 November 01, **2019**.
 
 
-**03. Many Different Ways Can Lead a Human Cell to Succeed in Acquiring Cancerous Potentials.**
+**03. Many Different Ways Can Lead a Human Cell to Succeed in Acquiring Cancerous Potentials.** <br>
 Shamrat Kumar Paul.
 *Academic Presentation; Course Code: BMB416.*
 May 07, **2019**.
 
 
-**04. DNA extraction method; DIY process-Workshop of Synthetic Biology.**<br>
+**04. DNA extraction method; DIY process-Workshop of Synthetic Biology.** <br>
 Shamrat Kumar Paul.
 *Academic Presentation; Workshop: Synthetic Biology.*
 August 18, **2017**.
@@ -194,7 +194,7 @@ August 18, **2017**.
 
 ### Fellowship Appliction
 
-**1. Physicochemical role and potential inhibitor screening for the candidate biomarkers overexpressed in experimental autoimmune encephalomyelitis (EAE) mice**<br>
+**1. Physicochemical role and potential inhibitor screening for the candidate biomarkers overexpressed in experimental autoimmune encephalomyelitis (EAE) mice.** <br>
 Supervisor: Mahbub Hasan, PhD*.
 *Application for National Science and Technology (NST) Fellowship, 
 Ministry of Science and Technology, Peoples Republic of Bangladesh.*
