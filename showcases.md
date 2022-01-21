@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Misc.
+title: Showcases
 permalink: /showcases/
 ---
 ![](/images/illustrations.svg)
@@ -55,21 +55,22 @@ Level 3.1
 
 
 # Some Resources at a Glance:
-- [SWISS MODEL](https://swissmodel.expasy.org/interactive); Comparative Protein Modeling Server
-- [MODELLER](https://salilab.org/modeller/); Peptide modeling suit
-- [GROMACS](https://www.gromacs.org/); Molecular Dynamics Simulation Package (Open source)
-- [Lysozyme in Water](http://www.mdtutorials.com/gmx/lysozyme/index.html); Tutorial by Justin A. Lemkul
-- [PyRx](https://pyrx.sourceforge.io/); Molecular Docking Software
-- [PyMOL](https://pymol.org/2/): Molecular Graphics and Visualization interface
-- [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/); Graphical and visualization tools
-- [Discovery Studio](https://discover.3ds.com/discovery-studio-visualizer-download); Protein-Ligand Interaction Study
-- [VMD](https://www.ks.uiuc.edu/Research/vmd/); Molecular Dynamics Simulation data
-- [MDAnalysis](https://www.mdanalysis.org/); Python package for MD data analysis
-- [gnuplot](http://www.gnuplot.info/); Visualizing MD data (RMSD, RMSF, Rg)
-- [xmgrace](https://plasma-gate.weizmann.ac.il/Grace/); Visualizing MD data (RMSD, RMSF, Rg)
-- [Inkscape](https://inkscape.org/); Lightweight digital illustration tool
-- [GIMP](https://www.gimp.org/); Lightweight Photoshop alternative for low-end PC
-- [MikTex](https://miktex.org/download); Basic Latex interface for documentation
-- [Texworks](https://miktex.org/download); Console for MikTex; Latex made easy
-- [Overleaf](https://www.overleaf.com/project); Webbased Latex resource and compiler
-- [RDMkit](https://rdmkit.elixir-europe.org/biomolecular_simulation_data.html); Repositroy for large sclae MD simulation datasets
+- [SWISS MODEL](https://swissmodel.expasy.org/interactive); Comparative Protein Modeling Server.
+- [MODELLER](https://salilab.org/modeller/); Peptide modeling suit.
+- [GROMACS](https://www.gromacs.org/); Molecular Dynamics Simulation Package (Open source).
+- [Lysozyme in Water](http://www.mdtutorials.com/gmx/lysozyme/index.html); Tutorial by Justin A. Lemkul.
+- [PyRx](https://pyrx.sourceforge.io/); Molecular Docking Software.
+- [PyMOL](https://pymol.org/2/): Molecular Graphics and Visualization interface.
+- [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/); Graphical and visualization tools.
+- [Discovery Studio](https://discover.3ds.com/discovery-studio-visualizer-download); Protein-Ligand Interaction Study.
+- [VMD](https://www.ks.uiuc.edu/Research/vmd/); Molecular Dynamics Simulation data.
+- [MDAnalysis](https://www.mdanalysis.org/); Python package for MD data analysis.
+- [gnuplot](http://www.gnuplot.info/); Visualizing MD data (RMSD, RMSF, Rg).
+- [xmgrace](https://plasma-gate.weizmann.ac.il/Grace/); Visualizing MD data (RMSD, RMSF, Rg).
+- [Inkscape](https://inkscape.org/); Lightweight digital illustration tool.
+- [GIMP](https://www.gimp.org/); Lightweight Photoshop alternative for low-end PC.
+- [MikTex](https://miktex.org/download); Basic Latex interface for documentation.
+- [Texworks](https://miktex.org/download); Console for MikTex; Latex made easy.
+- [Overleaf](https://www.overleaf.com/project); Webbased Latex resource and compiler.
+- [RDMkit](https://rdmkit.elixir-europe.org/biomolecular_simulation_data.html); Repositroy for large sclae MD simulation datasets.
+- [Markdown guide](https://www.markdownguide.org/); Learn markdown formatting for jekyll sites.
