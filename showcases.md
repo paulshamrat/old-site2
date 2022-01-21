@@ -3,7 +3,6 @@ layout: page
 title: Misc.
 permalink: /showcases/
 ---
-# Illustrations
 ![](/images/illustrations.svg)
 Contribution in illustration projects published in *[**cancers**](https://www.mdpi.com/2072-6694/13/13/3221)* and *[**current oncology**](https://www.mdpi.com/1718-7729/28/6/417)*.
 
