@@ -192,7 +192,7 @@ August 18, **2017**.
 
 <br>
 
-### Fellowship Appliction
+### Fundings
 
 **1. Physicochemical role and potential inhibitor screening for the candidate biomarkers overexpressed in experimental autoimmune encephalomyelitis (EAE) mice.** <br>
 Supervisor: Mahbub Hasan, PhD*.
