@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.12.27)  10 JAN 2022 20:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.12.27)  22 JAN 2022 11:16
 entering extended mode
-**c:/Users/shamr/OneDrive/Desktop/mycv-latex/cv-llt.tex
-(c:/Users/shamr/OneDrive/Desktop/mycv-latex/cv-llt.tex
+**c:/Users/shamr/paulshamrat.github.io/cv/cv-llt.tex
+(c:/Users/shamr/paulshamrat.github.io/cv/cv-llt.tex
 LaTeX2e <2021-06-01>
 L3 programming layer <2021-06-01> (C:\Users\shamr\AppData\Local\Programs\MiKTeX\tex/latex/curve\curve.cls
 Document Class: curve 2010/12/14 v1.16 Curriculum Vitae class for LaTeX2e
@@ -848,39 +848,42 @@ LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
 Package: zi4 2019/05/17 v1.12
  `inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
 \zifour@ocount=\count454
-) Include comment 'fullonly'
+) Include comment 'fullonly' Including 'fullonly' comment.
+\openout4 = `comment.cut'.
+
+ Straight input of comment.cut. (comment.cut)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Info: Redefining \oldstylenums on input line 78.
-LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on input line 78.
+LaTeX Info: Redefining \oldstylenums on input line 80.
+LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on input line 80.
  (C:\Users\shamr\AppData\Local\Programs\MiKTeX\tex/latex/cochineal\t1cochineal-osf.fd
 File: T1Cochineal-OsF.fd 2016/01/19 (msharpe) Font definitions for T1/Cochineal-OsF.
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 78.
+(Font)              scaled to size 10.95pt on input line 80.
  (cv-llt.aux)
 \openout1 = `cv-llt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
  (C:\Users\shamr\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count455
@@ -972,9 +975,9 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv-llt.bbl' found.
  (cv-llt.bbl)
-Package biblatex Info: Reference section=0 on input line 78.
-Package biblatex Info: Reference segment=0 on input line 78.
-Package hyperref Info: Link coloring ON on input line 78.
+Package biblatex Info: Reference section=0 on input line 80.
+Package biblatex Info: Reference segment=0 on input line 80.
+Package hyperref Info: Link coloring ON on input line 80.
  (C:\Users\shamr\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\shamr\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -984,9 +987,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count461
 )
-LaTeX Info: Redefining \ref on input line 78.
-LaTeX Info: Redefining \pageref on input line 78.
-LaTeX Info: Redefining \nameref on input line 78.
+LaTeX Info: Redefining \ref on input line 80.
+LaTeX Info: Redefining \pageref on input line 80.
+LaTeX Info: Redefining \nameref on input line 80.
  (cv-llt.out) (cv-llt.out)
 \@outlinefile=\write6
 \openout6 = `cv-llt.out'.
@@ -997,31 +1000,36 @@ LaTeX Info: Redefining \nameref on input line 78.
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 79.
+(Font)              scaled to size 17.28pt on input line 81.
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 79.
-LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input line 79.
+(Font)              scaled to size 17.28pt on input line 81.
+LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input line 81.
  (C:\Users\shamr\AppData\Local\Programs\MiKTeX\tex/latex/cabin\t1cabin-tlf.fd
 File: T1Cabin-TLF.fd 2020/07/15 (autoinst) Font definitions for T1/Cabin-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
-(Font)              `T1/Cabin-TLF/bold/n' on input line 79.
+(Font)              `T1/Cabin-TLF/bold/n' on input line 81.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 79.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 79.
+(Font)              scaled to size 17.28pt on input line 81.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 81.
  (C:\Users\shamr\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 79.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 81.
  (C:\Users\shamr\AppData\Local\Programs\MiKTeX\tex/latex/inconsolata\t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 79.
+(Font)              scaled to size 9.85492pt on input line 81.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 79.
+(Font)              <10.95> on input line 81.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 79.
+(Font)              <8> on input line 81.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 79.
+(Font)              <6> on input line 81.
+<photo.png, id=31, 91.0602pt x 91.0602pt>
+File: photo.png Graphic file (type png)
+<use photo.png>
+Package pdftex.def Info: photo.png  used on input line 81.
+(pdftex.def)             Requested size: 88.31934pt x 88.3241pt.
  (education.tex (C:\Users\shamr\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree0.fd)) (education.tex) (education.tex) (education.tex) (employment.tex) (employment.tex) (employment.tex) (employment.tex) (skills.tex) (skills.tex) (skills.tex) (skills.tex) (grant-awards.tex) (grant-awards.tex) (grant-awards.tex) (grant-awards.tex) (publications.tex
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 10.
@@ -1031,6 +1039,9 @@ LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
 (Font)              `T1/Cabin-TLF/bold/n' on input line 10.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
 (Font)              scaled to size 12.0pt on input line 10.
+ [1
+
+{C:/Users/shamr/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./photo.png>]
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' aliased to
 (Font)              `T1/Cabin-TLF/regular/n' on input line 10.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
@@ -1043,9 +1054,7 @@ LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
 (Font)              `T1/Cabin-TLF/bold/n' on input line 10.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
 (Font)              scaled to size 8.0pt on input line 10.
- [1
 
-{C:/Users/shamr/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 
 Package biblatex Warning: No driver for entry type 'inpresentation'.
 (biblatex)                Using fallback driver on input line 14.
@@ -1084,7 +1093,7 @@ Package biblatex Warning: No driver for entry type 'inprogress'.
 Package biblatex Warning: No driver for entry type 'inprogress'.
 (biblatex)                Using fallback driver on input line 18.
 
-) (projects.tex) (projects.tex) (projects.tex) (projects.tex) (misc.tex) (misc.tex) (misc.tex) (misc.tex [2]) (lang-prof.tex) (lang-prof.tex) (lang-prof.tex) (lang-prof.tex) (referee.tex) (referee.tex) (referee.tex) (referee.tex) [3] (cv-llt.aux)
+) (projects.tex) (projects.tex) (projects.tex) (projects.tex [2]) (misc.tex) (misc.tex) (misc.tex) (misc.tex) (lang-prof.tex) (lang-prof.tex) (lang-prof.tex) (lang-prof.tex) (referee.tex) (referee.tex) (referee.tex) (referee.tex) [3] (cv-llt.aux)
 Package rerunfilecheck Info: File `cv-llt.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'cv-llt.run.xml'.
@@ -1092,17 +1101,17 @@ Package logreq Info: Writing requests to 'cv-llt.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35422 strings out of 478864
- 701035 string characters out of 2848659
- 1497864 words of memory out of 3000000
- 52626 multiletter control sequences out of 15000+600000
+ 35443 strings out of 478864
+ 701249 string characters out of 2848659
+ 1494965 words of memory out of 3000000
+ 52642 multiletter control sequences out of 15000+600000
  638068 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,11n,107p,1194b,4073s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,11n,107p,1191b,4073s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_kbpxlj.enc}{C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}<C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/shamr/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
-Output written on cv-llt.pdf (3 pages, 214456 bytes).
+Output written on cv-llt.pdf (3 pages, 350336 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
+ 120 PDF objects out of 1000 (max. 8388607)
  24 named destinations out of 1000 (max. 500000)
- 115 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
