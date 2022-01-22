@@ -4,14 +4,13 @@
 
 layout: home
 ---
-<img align="left" src="/images/profile-home.svg">Hello! and welcome, I am Shamrat - Biochemsitry MS student at BSMRSTU, Gopalganj, Bangladesh. Currently, I am concentrating on molecular modeling and molecular dynamics simulation study of proteins associates with EAE: a mouse model of Multiple Sclerosis under the supervision of [Mahbub Hasan, PhD](https://sites.google.com/view/mahbub-hasan/home). My MS thesis project awarded [NST Fellowship](https://most.portal.gov.bd/sites/default/files/files/most.portal.gov.bd/npfblock//%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%20%E0%A6%93%20%20%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%BE%20%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%20%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA.pdf) 2021-2022 from the ministry of science and technology, people's republic of Bangladesh.
+<img align="left" src="/images/profile-home.svg">Hello! and welcome, I am Shamrat - Biochemistry MS student at BSMRSTU, Gopalganj, Bangladesh. Currently, I am concentrating on molecular modelling and molecular dynamics simulation study of proteins associated with EAE: a mouse model of Multiple Sclerosis under the supervision of [Mahbub Hasan, PhD](https://sites.google.com/view/mahbub-hasan/home). My MS thesis project was awarded [NST Fellowship](https://most.portal.gov.bd/sites/default/files/files/most.portal.gov.bd/npfblock//%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%20%E0%A6%93%20%20%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%BE%20%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%20%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA.pdf) 2021-2022 from the ministry of science and technology, people's republic of Bangladesh.
 
-
-In summer 2020, I worked on DEGs analysis from ovarian cancer datasets as a research intern at the Cancer Biology Lab, Dept. of Biotechnology, IIT Madras, India with GRIESHMA fellowship under the supervision of [Professor Karuanagaran D](https://biotech.iitm.ac.in/Faculty/Karunagaran/index.php). I secured a joint 2nd runner up position at the BAUET Tech Fair 2K18 at BAUET natore for the outstanding presentation on my DFT and Molecular Docking study on Delafloxacin against ABSSI.
+In summer 2020, I worked on DEGs analysis from ovarian cancer datasets as a research intern at the Cancer Biology Lab, Dept. of Biotechnology, IIT Madras, India with a GRIESHMA fellowship under the supervision of  [Professor Karuanagaran D](https://biotech.iitm.ac.in/Faculty/Karunagaran/index.php). I secured a joint 2nd runner up position at the BAUET Tech Fair 2K18 at BAUET, Natore, Bangladesh for the outstanding presentation on DFT and Molecular Docking study on Delafloxacin against ABSSI.
 
 Apart from research, I love to sketch, do check my graphite on papers [here](), whilst great fan of classical detective stories - Sherlock Holmes, Feluda and many more. In my off-research time, I love to teach biology to the kids at my village where I show them the fun experiments of DIY DNA extraction, glowing plants and perspective biochemistry in our daily lives.
 
-Find my CV from [here.](/cv/cv-website/cv-llt.pdf)
+Find my full CV [here.](/cv/cv-website/cv-llt.pdf)
 
 # Employment
 **Summer 2020**
