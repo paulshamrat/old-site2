@@ -1,0 +1,15 @@
+Synaptic
+------------
+1. Basics: variable, conditions, while loop, for loop, list, functions
+2. Prblems:
+3. Projects: 2
+4.
+    - Data structure
+    - Algorithm
+    - OOP
+5. Github, hosting, service, Api, database, IDE
+6. Frameworks: Numpy, Django, Pandas, matplotlib
+------------
+
+Some references:
+Programiz: https://www.programiz.com/python-programming
