@@ -6,7 +6,7 @@ permalink: /achievements/
 ### Articles
 
 **1. Potential Role of CCN Proteins on Breast Cancer: Therapeutic Advances and Perspectives.** <br>
-Ahmed, K.A.; Hasib, T.A.; <u>Paul, S.K.</u>, Saddam, M., Mimi, A., Saikat, A.S.M., Faruque, H.-A., Rahman, M.A., Uddin, M.J., Kim, B. *Curr. Oncol. *2021*,* 28, 4972-4985. DOI: 10.3390/curroncol28060417.*
+Ahmed, K.A.; Hasib, T.A.; <u>Paul, S.K.</u>, Saddam, M., Mimi, A., Saikat, A.S.M., Faruque, H.-A., Rahman, M.A., Uddin, M.J., Kim, B. *Curr. Oncol. 2021, 28, 4972-4985. DOI: 10.3390/curroncol28060417.*
 [**(PDF)**](https://www.mdpi.com/1718-7729/28/6/417/pdf)<br>
 
 **2. An insight into pathophysiological features and therapeutic advances on ependymoma.** <br>
