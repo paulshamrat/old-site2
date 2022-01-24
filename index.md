@@ -49,19 +49,19 @@ Bangabandhu Sheikh Mujibur Rahman Science & Technology University, Gopalganj 810
 - **2018** : 2nd Runner up: poster presentation at [BAUET Tech Fair 2K18](https://bauet.ac.bd/bauet-tech-fair-2k18/), BAUET, Natore, Bangladesh.
 
 # Projects
-01. **MSProject**: Physicochemical role and potential inhibitor screening for the candidate biomarkers overexpressed in experimental autoimmune encephalomyelitis (EAE) mice. <br>
+01. **MSnEAE**: Physicochemical role and potential inhibitor screening for the candidate biomarkers overexpressed in experimental autoimmune encephalomyelitis (EAE) mice. <br>
 Host: Dept. of Biochemistry and Molecular Biology, Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj 8100, Bangladesh <br>
 Advisor: Mahbub Hasan, PhD & Manoj Mandal. 2021-2022
 
-02. **DEGSAnalsis**: Microarray Data Analysis Using GEO2R to Identify Differentially Expressed Genes in Ovarian Cancer after NSC319726 Treatment and Pathway Analysis<br>
+02. **DEGnNGSanalysis**: Microarray Data Analysis Using GEO2R to Identify Differentially Expressed Genes in Ovarian Cancer after NSC319726 Treatment and Pathway Analysis<br>
 Prof. D Karunagaran's Cancer Biology Lab, Dept. of Biotechnology.
 Indian Institute of Technology Madras, Chennai 6000636, Tamil Nadu, India.
 Mar 2020- Sep 2020
 
-03. **MMMD**: Molecular Modeling, Molecular Dynamics Simulation, Molecular Docking & Data analysis
+03. **MMMDDynamics**: Molecular Modeling, Molecular Dynamics Simulation, Molecular Docking & Data analysis
 In this project I am keeping a record of essential resources, workplan and updates on python programming used in data analysis of molecular dynamics simulation and NGS data as well. 
 
-04. **CODESEQ**: Learning tools like- Python, R, Ruby, HTML, illustration and other assets to give support my projects
+04. **CODEnSEQ**: Learning tools like- Python, R, Ruby, HTML, illustration and other assets to give support my projects
 Depicting a complex biological phenomenon in the form of flowchart, pathway and logical figure, becomes a popular way to present scientific information. I mostly used Inkscape and GIMP for the generation of biological illustrations. Here I track record of these works. 
 
 # Publications
