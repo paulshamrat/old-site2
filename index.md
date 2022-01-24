@@ -50,19 +50,20 @@ Bangabandhu Sheikh Mujibur Rahman Science & Technology University, Gopalganj 810
 
 # Projects
 01. **MSnEAE**: Physicochemical role and potential inhibitor screening for the candidate biomarkers overexpressed in experimental autoimmune encephalomyelitis (EAE) mice. <br>
-Host: Dept. of Biochemistry and Molecular Biology, Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj 8100, Bangladesh <br>
-Advisor: Mahbub Hasan, PhD & Manoj Mandal. 2021-2022
+
+Host: Dept. of Biochemistry and Molecular Biology, Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj 8100, Bangladesh. Advisor: Mahbub Hasan, PhD. 2021-2022
 
 02. **DEGnNGSanalysis**: Microarray Data Analysis Using GEO2R to Identify Differentially Expressed Genes in Ovarian Cancer after NSC319726 Treatment and Pathway Analysis<br>
-Prof. D Karunagaran's Cancer Biology Lab, Dept. of Biotechnology.
-Indian Institute of Technology Madras, Chennai 6000636, Tamil Nadu, India.
-Mar 2020- Sep 2020
 
-03. **MMMDDynamics**: Molecular Modeling, Molecular Dynamics Simulation, Molecular Docking & Data analysis
+Prof. D Karunagaran's Cancer Biology Lab, Dept. of Biotechnology. Indian Institute of Technology Madras, Chennai 6000636, Tamil Nadu, India. Advisor: Professor Karunagaran D. Mar 2020- Sep 2020. 
+
+03. **MMMDDynamics**: Molecular Modeling, Molecular Dynamics Simulation, Molecular Docking & Data analysis.<br>
+
 In this project I am keeping a record of essential resources, workplan and updates on python programming used in data analysis of molecular dynamics simulation and NGS data as well. 
 
-04. **CODEnSEQ**: Learning tools like- Python, R, Ruby, HTML, illustration and other assets to give support my projects
-Depicting a complex biological phenomenon in the form of flowchart, pathway and logical figure, becomes a popular way to present scientific information. I mostly used Inkscape and GIMP for the generation of biological illustrations. Here I track record of these works. 
+04. **CODEnSEQ**: Learning tools like- Python, R, Ruby, Jekyll, HTML, illustration and other assets to give support my scientific projects.<br>
+
+Depicting complex biological phenomenon in the form of flowchart, pathway and logical figure. I mostly used Inkscape and GIMP for the generation of biological illustrations and python for data analysis. Here I track record of these works. 
 
 # Publications
 1. Ahmed, K.A., et al. (2021). [Potential Role of CCN Proteins on Breast Cancer: Therapeutic Advances and Perspectives](https://www.mdpi.com/1718-7729/28/6/417)*.  **Current Oncology**, 28(6), 4972–4985*.
