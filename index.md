@@ -27,7 +27,7 @@ Trainingtitle: *Chemical Analysis and Quality Control.*
 **2020 - 2021**
 - MS in Biochemistry in Molecular Biology. <br>
 Bangabandhu Sheikh Mujibur Rahman Science & Technology University, Gopalganj 8100, Bangladesh.<br>
-Thesis title: *Physicochemical role and potential inhibitor screening for the candidate biomarkers overexpressed in experimental autoimmune encephalomyelitis (EAE) mice.*; Advisor: Mahbub Hasan, PhD & Manoj Mandal.
+Thesis title: *Physicochemical role and potential inhibitor screening for the candidate biomarkers overexpressed in experimental autoimmune encephalomyelitis (EAE) mice.* Advisor: Mahbub Hasan, PhD.
 
 **2016 - 2019**
 - BSc in Biochemistry and Molecular Biology.<br>
@@ -50,7 +50,7 @@ Bangabandhu Sheikh Mujibur Rahman Science & Technology University, Gopalganj 810
 
 # Projects
 01. **MSnEAE**: Physicochemical role and potential inhibitor screening for the candidate biomarkers overexpressed in experimental autoimmune encephalomyelitis (EAE) mice. <br>
-Host: Dept. of Biochemistry and Molecular Biology, Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj 8100, Bangladesh. Advisor: Mahbub Hasan, PhD. 2021-2022
+Dept. of Biochemistry and Molecular Biology, Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj 8100, Bangladesh. Advisor: Mahbub Hasan, PhD. 2021-2022
 
 02. **DEGnNGSanalysis**: Microarray Data Analysis Using GEO2R to Identify Differentially Expressed Genes in Ovarian Cancer after NSC319726 Treatment and Pathway Analysis.<br>
 Prof. D Karunagaran's Cancer Biology Lab, Dept. of Biotechnology. Indian Institute of Technology Madras, Chennai 6000636, Tamil Nadu, India. Advisor: Professor Karunagaran D. Mar 2020- Sep 2020. 
